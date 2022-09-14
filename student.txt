@@ -1,0 +1,3 @@
+student name: Wouter Zwart
+student number: 702015
+student class: INF1b
